@@ -23,4 +23,3 @@
 22		Simple try except block example
 23		Write the code
 24		WAP to sort elements of a list using Bubble sort.
-
